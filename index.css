@@ -36,3 +36,9 @@ h2 {
 .subtitle-section {
   padding: 0 2rem;
 }
+
+.accent {
+  background-color: rgb(64, 235, 178);
+  border-radius: 1rem;
+  padding: 1rem 2rem;
+}
