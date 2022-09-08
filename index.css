@@ -19,6 +19,22 @@ h2 {
   color: rgb(30, 30, 124);
 }
 
+figure {
+  border-radius: 1rem;
+  overflow: hidden;
+  box-shadow: 5px 5px 25px 1px rgba(0, 0, 0, 0.5);
+}
+
+img {
+  width: 100%;
+  object-fit: cover;
+}
+
+figcaption {
+  text-align: right;
+  padding-right: 1rem;
+}
+
 .subtitle {
   color: rgb(0, 59, 0);
 }
