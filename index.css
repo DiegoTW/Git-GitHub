@@ -18,6 +18,8 @@ h2 {
   margin: 0;
   font-size: 1.5rem;
   color: rgb(30, 30, 124);
+  background-color: aqua;
+  text-align: center;
 }
 
 .subtitle {
@@ -42,4 +44,8 @@ h2 {
 
 .section-container {
   margin: 0 auto;
+  border-radius: .5rem;
+  border: 1px solid darkblue;
+  margin-bottom: .5rem;
+  overflow: hidden;
 }
