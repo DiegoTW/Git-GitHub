@@ -68,6 +68,6 @@ figcaption {
 
 .accent {
   background-color: rgb(64, 235, 178);
-  border-radius: 1rem;
   padding: 1rem 2rem;
+  margin-bottom: 0;
 }
